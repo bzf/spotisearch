@@ -1,0 +1,40 @@
+/* some style */
+
+body {
+  background: #eee;
+}
+
+.navbar {
+  background: #523751;
+  /* margin-bottom: 40px; */
+  padding: 20px 0;
+  /* text-align: center; */
+}
+
+.navbar img {
+  height: 75px;
+}
+
+/* artist images */
+.artist-container {
+  display: inline-block;
+  margin: 17px 3px;
+  padding: 3px;
+}
+
+.artist-container h1 {
+  padding-top: 7px;
+  font-size: 11pt;
+  margin: 3px;
+  font-weight: none;
+}
+
+.artist-image-container {
+  width: 100%;
+  min-width: 100px;
+  height: 100px;
+  background-size: cover;
+  background-position: center center;
+}
+
+/* albums */
